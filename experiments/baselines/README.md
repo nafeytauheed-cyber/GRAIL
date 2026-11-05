@@ -1,0 +1,1 @@
+Run all baselines with `python -m grail.cli experiment --synthetic`. Filter with `--models majority,logistic,forest,xgboost,catboost,mlp,coral,corn,ordinal_dro`. All share split IDs and training-only transformations. Output manifest states data origin.

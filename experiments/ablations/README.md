@@ -1,0 +1,1 @@
+`--models coral,ordinal_weighted,ordinal_sampled,ordinal_fixed,ordinal_dro,grail,grail_no_shrink,grail_no_regularization` compares ordinal objectives on identical inputs. `bash scripts/run_shortcuts.sh` removes geography/weather and explicitly adds provider/year. Outcome-derived fields are forbidden, not used to inflate primary results.

@@ -1,0 +1,12 @@
+numpy==2.3.5
+pandas==2.2.3
+scipy==1.17.0
+scikit-learn==1.8.0
+torch==2.15.0+cpu
+pyarrow==26.0.1
+duckdb==2.0.0
+matplotlib==3.10.8
+joblib==1.5.3
+pytest==9.2.0
+xgboost==3.4.1
+catboost==1.2.10

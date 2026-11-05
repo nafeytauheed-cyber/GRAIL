@@ -1,0 +1,33 @@
+{
+  "rows": 8000,
+  "invalid_start": 0,
+  "invalid_target": 0,
+  "missing": {
+    "ID": 0,
+    "Start_Time": 0,
+    "End_Time": 0,
+    "Weather_Timestamp": 0,
+    "State": 0,
+    "Source": 0,
+    "Start_Lat": 0,
+    "Start_Lng": 0,
+    "Severity": 0,
+    "Temperature(F)": 416,
+    "Humidity(%)": 0,
+    "Wind_Speed(mph)": 0,
+    "Visibility(mi)": 0,
+    "Precipitation(in)": 0,
+    "Traffic_Signal": 0,
+    "Junction": 0,
+    "Sunrise_Sunset": 0,
+    "Weather_Condition": 0,
+    "Distance(mi)": 0
+  },
+  "label_change_status": "UNVERIFIED: prevalence shifts do not prove reclassification",
+  "duplicate_ids": 0,
+  "duplicate_signatures": 0,
+  "negative_duration": 0,
+  "future_weather": 0,
+  "weather_older_than_2h": 0,
+  "common_source_state_strata": 24
+}

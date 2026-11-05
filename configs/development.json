@@ -1,0 +1,1 @@
+{"rows":8000,"seeds":[11,23,37],"epochs":25,"trials":2,"batch_size":256,"device":"cpu","train_end":"2021-01-01","validation_end":"2022-01-01","calibration_end":"2023-01-01","validation_states":["NV","OR"],"test_states":["CA","TX"],"note":"Recorded run specification; CLI arguments are authoritative. This file is not automatically loaded."}

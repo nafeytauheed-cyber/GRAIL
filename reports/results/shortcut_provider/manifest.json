@@ -1,0 +1,14 @@
+{
+  "data_kind": "SYNTHETIC",
+  "seeds": [
+    11
+  ],
+  "epochs": 25,
+  "trials": 2,
+  "python": "3.12.14",
+  "torch": "2.15.0+cpu",
+  "numpy": "2.3.5",
+  "device": "cpu",
+  "feature_mode": "provider",
+  "warning": "Equal candidate count is not equal wall-clock compute; timings are reported. No superiority claim from synthetic data."
+}

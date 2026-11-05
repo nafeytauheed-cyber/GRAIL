@@ -1,0 +1,11 @@
+__pycache__/
+.pytest_cache/
+*.egg-info/
+.venv/
+data/raw/
+data/processed/
+*.pt
+*.joblib
+*.parquet
+*.csv.gz
+catboost_info/

@@ -1,0 +1,1 @@
+Use `--modes temporal,geographic`. Geographic mode also includes a time shift; see methodology. Full-data `audit` and a written label review precede real-data evaluation. Repeat source/time-filtered runs only with predeclared compatible scopes.
